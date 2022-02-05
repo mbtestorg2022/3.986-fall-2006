@@ -37,61 +37,570 @@ Additional readings are assigned from journal articles, journal abstracts, and p
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 1st Paper Assignment | 15% |
-| First Midterm Examination | 17% |
-| 2nd Paper Assignment | 15% |
-| 3rd Paper Assignment | 15% |
-| Final Examination (Exam Period) | 20% |
-| Labs Assignments are Issued Weekly and Due the Following Week | 18% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1st Paper Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Midterm Examination
+{{< tdclose >}}
+{{< tdopen >}}
+17%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2nd Paper Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3rd Paper Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Examination (Exam Period)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Labs Assignments are Issued Weekly and Due the Following Week
+{{< tdclose >}}
+{{< tdopen >}}
+18%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
 The calendar below provides information on the course's lecture (Lec) and lab (Lab) sessions.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Introduction**{{< /td-colspan >}} |||
-| Lec1 | Introductory Remarks - Overview and Class and Lab Logistics | &nbsp; |
-| Lec2 | Archaeology: Nature and Goals; Historical Development as a Discipline | &nbsp; |
-| Lab1 | Chronology and Dating Techniques | &nbsp; |
-| {{< td-colspan 3 >}}**Unit 1 - Earlier Prehistory: A Brief Overview**{{< /td-colspan >}} |||
-| Lec3 | Becoming Human: Early Hominids and the Earliest Technology | &nbsp; |
-| Lec4 | Becoming Human: Early Humans and Emerging Cultural Behavior | &nbsp; |
-| Lec5 | Becoming Human: Modern Humans and the Advent of Modern Behaviors | &nbsp; |
-| Lab2 | Chronology and Dating Techniques (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**Unit 2 - The Near East Case Study**{{< /td-colspan >}} |||
-| Lec6 | Theoretical Perspectives; Variables to be Considered in Comparative Studies. The Environmental Setting for Domestication and the Evolution of Social Complexity in the Near East | &nbsp; |
-| Lec7 | Pre-Neolithic Adaptations and the Natufian in the Near East | &nbsp; |
-| Lab3 | Site Documentation - Map Reading, Site Location | &nbsp; |
-| Lec8 | Domestication: Recognition, Processes and Impact | &nbsp; |
-| Lec9 | Origins and Expansion of Agriculture and Pastoralism in the Near East Context | &nbsp; |
-| Lab4 | Site Documentation - Mapping | &nbsp; |
-| Lec10 | Early Village Farming Communities: Geographic Expansion, Emerging Class Stratification and Centralization of Religion | First paper due |
-| Lab5 | Stone Technology Lab: Manufacturing Techniques | &nbsp; |
-| Lec11 | The Earliest Stages of Urbanization: Ubaid and Eridu | &nbsp; |
-| Lec12 | Urbanization and City States: Uruk, Civilization and Writing | &nbsp; |
-| Lab6 | Stone Technology Lab: Debitage Identification / Classification | &nbsp; |
-| Lec13 | Urbanization and City States: Ur Political and Social Environments, Material Achievements, the Critical Factors Interacting in the Development of Stratified Society in the Near East | &nbsp; |
-| &nbsp; | Midterm Examination | &nbsp; |
-| Lec14 | Refocusing on the Comparative Theme: Eurasia - The Americas | &nbsp; |
-| {{< td-colspan 3 >}}**Unit 3 - The Mesoamerica Case Study**{{< /td-colspan >}} |||
-| Lec15 | Peopling of The Americas. The Mesoamerican Environmental Setting: Lowlands and Highlands | &nbsp; |
-| Lab7 | Stone Technology Lab: Artifact Identification / Classification | &nbsp; |
-| Lec16 | Plant and Animal Domestication and the Emergence of Settled Village Life: Tehuacan and Oaxaca | &nbsp; |
-| Lec17 | Plant and Animal Domestication and the Emergence of Settled Village Life: Comparing Processes in Mesoamerica and the Near East | Second paper due |
-| Lab8 | Ceramics Lab: Ceramics as Archaeological Materials, Forming and Firing Ceramic Vessels | &nbsp; |
-| Lec18 | The Emergence of the Olmec and Early Lowland Civilization - La Venta | &nbsp; |
-| Lec19 | Olmec Accomplishments | &nbsp; |
-| Lab9 | Ceramics Lab: Analysis of Ceramics as Materials | &nbsp; |
-| Lec20 | The Maya: The Rise of Tropical Rain Forest City-states | &nbsp; |
-| Lec21 | Maya Achievements and the Decline of the Classic Maya | &nbsp; |
-| Lec22 | Prof. Dorothy Hosler: West Mexican Metallurgy and its Importance in Interregional Contact | Third paper due |
-| Lab10 | Faunal Analysis Lab: Bone / Element Identification | &nbsp; |
-| Lec23 | Teotihuacan: The Rise and Fall of a Highland State: Its Social Consequences | &nbsp; |
-| {{< td-colspan 3 >}}**Unit 4 - Decline and Collapse**{{< /td-colspan >}} |||
-| Lec24 | Decline of Early Civilizations - Social, Political, Economic - An Examination of Potential Causes in Mesopotamia and Mesoamerica | &nbsp; |
-| Lab11 | Faunal Analysis Lab: Bone / Faunal Identification | &nbsp; |
-| Lec25 | Decline of Early Civilizations (cont.) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Introduction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductory Remarks - Overview and Class and Lab Logistics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec2
+{{< tdclose >}}
+{{< tdopen >}}
+Archaeology: Nature and Goals; Historical Development as a Discipline
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab1
+{{< tdclose >}}
+{{< tdopen >}}
+Chronology and Dating Techniques
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 1 - Earlier Prehistory: A Brief Overview**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec3
+{{< tdclose >}}
+{{< tdopen >}}
+Becoming Human: Early Hominids and the Earliest Technology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec4
+{{< tdclose >}}
+{{< tdopen >}}
+Becoming Human: Early Humans and Emerging Cultural Behavior
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec5
+{{< tdclose >}}
+{{< tdopen >}}
+Becoming Human: Modern Humans and the Advent of Modern Behaviors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab2
+{{< tdclose >}}
+{{< tdopen >}}
+Chronology and Dating Techniques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 2 - The Near East Case Study**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec6
+{{< tdclose >}}
+{{< tdopen >}}
+Theoretical Perspectives; Variables to be Considered in Comparative Studies. The Environmental Setting for Domestication and the Evolution of Social Complexity in the Near East
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec7
+{{< tdclose >}}
+{{< tdopen >}}
+Pre-Neolithic Adaptations and the Natufian in the Near East
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab3
+{{< tdclose >}}
+{{< tdopen >}}
+Site Documentation - Map Reading, Site Location
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec8
+{{< tdclose >}}
+{{< tdopen >}}
+Domestication: Recognition, Processes and Impact
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec9
+{{< tdclose >}}
+{{< tdopen >}}
+Origins and Expansion of Agriculture and Pastoralism in the Near East Context
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab4
+{{< tdclose >}}
+{{< tdopen >}}
+Site Documentation - Mapping
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec10
+{{< tdclose >}}
+{{< tdopen >}}
+Early Village Farming Communities: Geographic Expansion, Emerging Class Stratification and Centralization of Religion
+{{< tdclose >}}
+{{< tdopen >}}
+First paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab5
+{{< tdclose >}}
+{{< tdopen >}}
+Stone Technology Lab: Manufacturing Techniques
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec11
+{{< tdclose >}}
+{{< tdopen >}}
+The Earliest Stages of Urbanization: Ubaid and Eridu
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec12
+{{< tdclose >}}
+{{< tdopen >}}
+Urbanization and City States: Uruk, Civilization and Writing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab6
+{{< tdclose >}}
+{{< tdopen >}}
+Stone Technology Lab: Debitage Identification / Classification
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec13
+{{< tdclose >}}
+{{< tdopen >}}
+Urbanization and City States: Ur Political and Social Environments, Material Achievements, the Critical Factors Interacting in the Development of Stratified Society in the Near East
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Examination
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec14
+{{< tdclose >}}
+{{< tdopen >}}
+Refocusing on the Comparative Theme: Eurasia - The Americas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 3 - The Mesoamerica Case Study**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec15
+{{< tdclose >}}
+{{< tdopen >}}
+Peopling of The Americas. The Mesoamerican Environmental Setting: Lowlands and Highlands
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab7
+{{< tdclose >}}
+{{< tdopen >}}
+Stone Technology Lab: Artifact Identification / Classification
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec16
+{{< tdclose >}}
+{{< tdopen >}}
+Plant and Animal Domestication and the Emergence of Settled Village Life: Tehuacan and Oaxaca
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec17
+{{< tdclose >}}
+{{< tdopen >}}
+Plant and Animal Domestication and the Emergence of Settled Village Life: Comparing Processes in Mesoamerica and the Near East
+{{< tdclose >}}
+{{< tdopen >}}
+Second paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab8
+{{< tdclose >}}
+{{< tdopen >}}
+Ceramics Lab: Ceramics as Archaeological Materials, Forming and Firing Ceramic Vessels
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec18
+{{< tdclose >}}
+{{< tdopen >}}
+The Emergence of the Olmec and Early Lowland Civilization - La Venta
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec19
+{{< tdclose >}}
+{{< tdopen >}}
+Olmec Accomplishments
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab9
+{{< tdclose >}}
+{{< tdopen >}}
+Ceramics Lab: Analysis of Ceramics as Materials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec20
+{{< tdclose >}}
+{{< tdopen >}}
+The Maya: The Rise of Tropical Rain Forest City-states
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec21
+{{< tdclose >}}
+{{< tdopen >}}
+Maya Achievements and the Decline of the Classic Maya
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec22
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Dorothy Hosler: West Mexican Metallurgy and its Importance in Interregional Contact
+{{< tdclose >}}
+{{< tdopen >}}
+Third paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab10
+{{< tdclose >}}
+{{< tdopen >}}
+Faunal Analysis Lab: Bone / Element Identification
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec23
+{{< tdclose >}}
+{{< tdopen >}}
+Teotihuacan: The Rise and Fall of a Highland State: Its Social Consequences
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 4 - Decline and Collapse**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec24
+{{< tdclose >}}
+{{< tdopen >}}
+Decline of Early Civilizations - Social, Political, Economic - An Examination of Potential Causes in Mesopotamia and Mesoamerica
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab11
+{{< tdclose >}}
+{{< tdopen >}}
+Faunal Analysis Lab: Bone / Faunal Identification
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec25
+{{< tdclose >}}
+{{< tdopen >}}
+Decline of Early Civilizations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
