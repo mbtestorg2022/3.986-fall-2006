@@ -5,6 +5,7 @@ description: This resource contains guidelines on the final exam, including iden
   vocabulary and handout sheets.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/2963adac3c9bb35a7d93428ff0d64215_final_guide.pdf
 file_type: application/pdf
+parent_uid: ddfc6b0f-d4c5-0853-011e-5d36c9edb59c
 resourcetype: Document
 title: final_guide.pdf
 uid: 2963adac-3c9b-b35a-7d93-428ff0d64215

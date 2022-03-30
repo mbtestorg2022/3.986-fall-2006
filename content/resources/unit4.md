@@ -4,6 +4,7 @@ description: This resource lists required readings, journal articles, and chapte
   in the course text on societal collapse.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/de75f0c3a798a093c5ff4ce1e7f6185c_unit4.pdf
 file_type: application/pdf
+parent_uid: e9b9b8d9-2aa1-86f0-d6f3-97a1791bb6a2
 resourcetype: Document
 title: unit4.pdf
 uid: de75f0c3-a798-a093-c5ff-4ce1e7f6185c

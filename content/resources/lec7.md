@@ -4,6 +4,7 @@ description: 'This resource contains lecture notes on the earliest stages of urb
   Ubaid and Eridu, and urbanization and city states: Uruk, civilization and writing.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/44974723b1d3003a711a1c30c59f0fce_lec7.pdf
 file_type: application/pdf
+parent_uid: 729bc5d3-3929-51ab-fbce-4e57838fb743
 resourcetype: Document
 title: lec7.pdf
 uid: 44974723-b1d3-003a-711a-1c30c59f0fce

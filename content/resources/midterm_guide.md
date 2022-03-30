@@ -5,6 +5,7 @@ description: This resource contains guidelines on the midterm exam, including id
   sheets.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/4530233a7e87f9ac459862dd64b60cba_midterm_guide.pdf
 file_type: application/pdf
+parent_uid: ddfc6b0f-d4c5-0853-011e-5d36c9edb59c
 resourcetype: Document
 title: midterm_guide.pdf
 uid: 4530233a-7e87-f9ac-4598-62dd64b60cba
